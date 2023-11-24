@@ -1,0 +1,69 @@
+.Content{
+    display: inline-block;
+    background-color: #666636;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 10px;
+    width: 25%;
+}
+.form{
+    background-color: rgb(97, 97, 145);
+    padding: 10px;
+}
+.titleField{
+    display: block;
+    width: 30%;
+    margin: 8px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.contentPosition{
+    display: flex;
+}
+.contentField{
+    margin: 5px;
+    height: 50px;
+    width: 650px;
+    padding: 5px;
+}
+.submitButton{
+    height: 30px;
+    width: 80px;
+    margin-left: 30px;
+    margin-top: 30px; 
+    border-radius: 3px;
+    padding: 5px;
+}
+.footerAbsolute{
+    position: absolute;
+    bottom: 0;
+    background-color: #5170b8;
+    width: 100%;
+}
+.footerAbsolute div{
+    text-align: center;
+    padding: 5px;
+}
+.footerRelative{
+    position: relative;
+    bottom: 0;
+    background-color: #5170b8;
+    width: 100%;
+}
+.footerRelative div{
+    text-align: center;
+    padding: 5px;
+} 
+/* .footerabsolute{
+    position: absolute;
+        bottom: 0;
+        left: 50%;
+        background-color: #5170b8;
+        width: 100%;    
+}
+.footer{
+    position: relative;
+    background-color: #5170b8;
+    text-align: center;
+    padding: 5px; 
+}  */
